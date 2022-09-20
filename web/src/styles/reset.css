@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    justify-content: center;
+}

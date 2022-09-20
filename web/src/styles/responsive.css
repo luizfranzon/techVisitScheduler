@@ -1,0 +1,10 @@
+@media (max-width: 750px) {
+    .divGroup {
+        flex-direction: column;
+        gap: 1.25rem;
+    }
+
+    .banner {
+        width: 90%;
+    }
+}
