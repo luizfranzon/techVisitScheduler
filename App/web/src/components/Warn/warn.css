@@ -1,0 +1,14 @@
+.warnDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+}
+
+.warnDiv p {
+    font-weight: bolder;
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
